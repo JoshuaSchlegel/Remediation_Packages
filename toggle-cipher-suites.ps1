@@ -5,14 +5,14 @@
     Make sure to run as Administrator or with appropriate privileges.
 
 .NOTES
-    Author        : Josh Madakor
-    Date Created  : 2024-09-09
-    Last Modified : 2024-09-09
+    Author        : Joshua Schlegel
+    Date Created  : 2025-08-14
+    Last Modified : 2025-08-14
     Version       : 1.0
 
 .TESTED ON
-    Date(s) Tested  : 2024-09-09
-    Tested By       : Josh Madakor
+    Date(s) Tested  : 2025-08-14
+    Tested By       : Joshua Schlegel
     Systems Tested  : Windows Server 2019 Datacenter, Build 1809
     PowerShell Ver. : 5.1.17763.6189
 
