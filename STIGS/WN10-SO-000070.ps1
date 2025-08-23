@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the built-in administrator account is disabled.
+    This PowerShell script ensures that the machine inactivity limit is set to 15 minutes, locking the system with the screensaver.
 
 .NOTES
     Author          : Joshua Schlegel
