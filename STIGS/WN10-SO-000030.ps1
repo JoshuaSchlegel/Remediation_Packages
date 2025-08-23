@@ -22,7 +22,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\STIG-ID-WN10-AU-000500.ps1 
+    PS C:\> .\STIG-ID-WN10-SO-000030.ps1 
 #>
 
 # Requires: Admin PowerShell (native on Windows 10)
