@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Unified script to configure Account Lockout Policy, handle logs, and provide help documentation.
+    This PowerShell script ensures configuration of Account Lockout Policy, handle logs, and provide help documentation.
 
 .NOTES
     Author          : Joshua Schlegel
