@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures configuration of Windows 10 to audit MPSSVC Rule-Level Policy Change Successes.
+    This PowerShell script ensures that Group Policy objects are reprocessed even if they have not changed.
 
 .NOTES
     Author          : Joshua Schlegel
