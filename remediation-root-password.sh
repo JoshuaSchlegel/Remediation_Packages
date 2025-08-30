@@ -7,7 +7,7 @@ echo -e "IamYourfath3r!23\nIamYourfath3r!23" | sudo passwd root
 rm remediation-root-password.sh
 
 # Download the script
-# wget https://raw.githubusercontent.com/JoshuaSchlegel/Remediation_Packages/edit/main/remediation-root-password.sh --no-check-certificate
+# wget https://raw.githubusercontent.com/JoshuaSchlegel/Remediation_Packages/refs/heads/main/remediation-root-password.sh --no-check-certificate
 
 # Make the script executable:
 # chmod +x remediation-root-password.sh
