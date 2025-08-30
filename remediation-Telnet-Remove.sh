@@ -19,7 +19,7 @@ sudo apt autoremove -y
 sudo apt update
 
 # Download the script
-# wget https://raw.githubusercontent.com/JoshuaSchlegel/Remediation_Packages/blob/main/remediation-Telnet-Remove.sh
+# wget https://raw.githubusercontent.com/JoshuaSchlegel/Remediation_Packages/refs/heads/main/remediation-Telnet-Remove.sh
 
 # Make the script executable:
 # chmod +x remediation-Telnet-Remove.sh
